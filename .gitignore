@@ -18,3 +18,5 @@ gtest/*
 map.pgm
 .kdev4
 build/
+devel/
+.idea
