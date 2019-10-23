@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/turtlebot/hri-fall2019/ros/devel/setup.sh

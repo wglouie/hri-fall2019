@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/hri-fall2019/ros/devel
+
+Name: example_package
+Description: Description of example_package
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/turtlebot/hri-fall2019/ros/devel/lib 
+Requires: 
